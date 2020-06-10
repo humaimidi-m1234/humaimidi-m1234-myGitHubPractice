@@ -34,14 +34,12 @@ public class myAppTester {
 	   }
 
 
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
-
+	       public static void myTestMethod(String name, String course){
+	    	   System.out.println("Hello, my name is " + name + " and I am taking " + course);
             
 
 		   }
 	 
-	   */
+	   
 
 }
