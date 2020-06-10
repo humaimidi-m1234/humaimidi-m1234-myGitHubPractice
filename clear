@@ -1,0 +1,44 @@
+[33mcommit f355bb8073ddff43378be4de3dd2c727d74a610d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mhumaimidi <mhumaimidi@gmail.com>
+Date:   Tue Jun 9 01:56:12 2020 -0700
+
+     myAppTester.java modified
+
+[33mcommit 59cc155c3eb6527ca320ebc9c173a603632f6de6[m
+Author: mhumaimidi <mhumaimidi@gmail.com>
+Date:   Tue Jun 9 01:34:44 2020 -0700
+
+     myAppTester.java modified
+
+[33mcommit 9d1a50b0bcf9a415139483d59c03a75353697ab5[m
+Author: humaimidi-m1234 <66305612+humaimidi-m1234@users.noreply.github.com>
+Date:   Tue Jun 9 00:57:59 2020 -0700
+
+    Update checkIn.txt
+
+[33mcommit de9b3a16191c3e0fe6d7f4b71ebe7bd183394de1[m
+Merge: 5f364b8 190ee6f
+Author: humaimidi-m1234 <66305612+humaimidi-m1234@users.noreply.github.com>
+Date:   Mon Jun 8 22:31:52 2020 -0700
+
+    Merge pull request #1 from mahmood58/patch-1
+    
+    Update checkIn.txt
+
+[33mcommit 190ee6f445f9d140d0c6a642b7d7969e6a80da1a[m
+Author: mahmood58 <66661471+mahmood58@users.noreply.github.com>
+Date:   Mon Jun 8 22:26:37 2020 -0700
+
+    Update checkIn.txt
+
+[33mcommit 5f364b8aa9e42a704f196d824e31a395714ab69b[m
+Author: humaimidi-m1234 <66305612+humaimidi-m1234@users.noreply.github.com>
+Date:   Mon Jun 8 22:20:55 2020 -0700
+
+    Create checkIn.txt
+
+[33mcommit ae938d6d10acff212a571ca1fb637c05cf9f5286[m
+Author: mhumaimidi <mhumaimidi@gmail.com>
+Date:   Mon Jun 8 15:53:42 2020 -0700
+
+     new project start point
