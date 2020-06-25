@@ -16,6 +16,7 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
+	  System.out.println("The number of digits is "+ countDigits(n));
 
 	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
 
@@ -34,14 +35,10 @@ public class myAppTester {
 	   }
 
 
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
-
-            
-
+	   public static int countDigits(int num) {
+		   String toS = Integer.toString(num);
+		   int numOfDs= toS.length();
+		   return numOfDs;
 		   }
-	 
-	   */
 
 }
