@@ -17,6 +17,7 @@ public class myAppTester {
 	  reverseMethod(n);
 	  System.out.println();
 	  myTestMethod(n);
+	  mySecondTestMethod(n);
 
 	}
 	
@@ -36,6 +37,14 @@ public class myAppTester {
 	       public static void myTestMethod(int num){
 	    	   System.out.println("Printing from the number down:");
 	    	   for (int i = num; i>=0;i--) {
+	    		   System.out.println(i);
+	    	   }
+            
+
+		   }
+	       public static void mySecondTestMethod(int num){
+	    	   System.out.println("Printing from the 0 to the number:");
+	    	   for (int i = 0; i>=num;i++) {
 	    		   System.out.println(i);
 	    	   }
             
