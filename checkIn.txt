@@ -1,4 +1,5 @@
 humaimidi-m1234    Instructor 
+cherginets-a1767   Student
 bhatoy-g8914	     Student
 jain-s4505	       Student
 le-n6440	         Student
@@ -11,6 +12,7 @@ Zioq               student
 correasuleiman-v5653 student
 huang-c0304        Student
 suraj-s3959        student
+munipadmanabha-s7872 Student
 arora-p7638	       Student
 johnson-a9804      Student
 gill-s6384         Student
