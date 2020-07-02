@@ -9,6 +9,7 @@ ding-r1775	       student
 singh-l0715        Student
 Zioq               student
 correasuleiman-v5653 student
+arora-p7638	   Student
 johnson-a9804      Student
 huang-c0304        Student
 gill-s6384         Student
