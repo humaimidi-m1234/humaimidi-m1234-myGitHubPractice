@@ -26,6 +26,7 @@ deoliveira-r5192   student
 singh-l0436	       Student
 sharma-s0579	     student
 kour-p4066 	       student
+lapshina-d9039    Student
 kharod-g9185	     student
 deoliveira-r5192   student
 to-t8132		       Student
