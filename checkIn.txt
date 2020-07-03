@@ -1,4 +1,4 @@
-humaimidi-m1234    Instructor 
+humaimidi-m1234
 cherginets-a1767   Student
 bhatoy-g8914	     Student
 jain-s4505	       Student
@@ -41,3 +41,4 @@ sharma-r7681	     student
 Singh-g1235        Student 
 dhansukhlal-m8615  Student
 nguyen-d8626	     Student
+giladi-j2313       student
