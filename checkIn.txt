@@ -32,6 +32,7 @@ kour-p4066 	       student
 lapshina-d9039     Student
 kharod-g9185	     student
 deoliveira-r5192   student
+kour-p4066 	       student
 to-t8132		       Student
 Talebi-T9630       Student
 Bandyopadhyay-S3041 student
@@ -42,5 +43,6 @@ Singh-g1235        Student
 dhansukhlal-m8615  Student
 nguyen-d8626	     Student
 giladi-j2313       student
-Amanpreet Singh   Student
-kaur-p7896        Student
+Amanpreet Singh    Student
+kaur-p7896         Student
+sabu-t0060         student
