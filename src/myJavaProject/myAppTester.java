@@ -35,28 +35,9 @@ public class myAppTester {
 	       }
 	   }
 
-	public static void perfect(int num) 
-	{
-		for(int i=1;i<1000;i++)
-		{
-			int sum=0;
-		 
-		  
-			if(i%num==0)
-			{
-				sum=sum+num;
-				
-			
-		}
-		 if(sum==num)
-			 System.out.println(num+" perfect");
-		 else
-			 System.out.println("not");
-	}
-	  
-            
-
-		   }
+	/*
 	 
+
+	   */
 
 }
