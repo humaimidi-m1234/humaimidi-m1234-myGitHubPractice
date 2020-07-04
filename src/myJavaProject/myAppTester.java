@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class myAppTester {
 	
  public static void main(String[] args) {
-	  
+	  //this is my test case
 	  Scanner input = new Scanner(System.in);
 	  int n=0;
 	  System.out.println("Hello Software Engineering World");
@@ -16,15 +16,7 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
-
-	  wordCount("Reverse of the input number is:");
-
-	  System.out.println("Hello from James 300319276");
-	  System.out.println("Dai-Dung Nguyen CSIS 3275 - 002");
-
-
-	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
-
+//	  	    
 	}
 	
 	//This is a method to reverse the number by recursion
@@ -38,27 +30,13 @@ public class myAppTester {
 	           reverseMethod(num/10);     // recursive call
 	       }
 	   }
-	
-	//this is a new method
-		public static void WordCount(String sentenceIs) {
-		String eachWordIs=sentenceIs.split(' ');
-		System.out.println(eachWordIs);
-		for(int x=1;eachWordIs>0;x++) {
-		
-			return x; 
-			
-		}
-	
-	}
 
 
-	   /* 
-	       this is a test
+	   
 
-            
-
-		   }
+	/*
 	 
+
 	   */
 
 }
