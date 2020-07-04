@@ -16,11 +16,7 @@ public class myAppTester {
 	  System.out.print("Reverse of the input number is:");
 	  reverseMethod(n);
 	  System.out.println();
-	  System.out.print("Enter the input number to check if it is perfect number or not:");
-	  perfect(n);
-
-	    
-
+//	  	    
 	}
 	
 	//This is a method to reverse the number by recursion
