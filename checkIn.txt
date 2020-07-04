@@ -42,4 +42,5 @@ Singh-g1235        Student
 dhansukhlal-m8615  Student
 nguyen-d8626	     Student
 giladi-j2313       student
-Amanpreet Singh Student
+Amanpreet Singh   Student
+kaur-p7896        Student
