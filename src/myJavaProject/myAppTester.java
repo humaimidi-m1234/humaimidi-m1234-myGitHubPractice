@@ -43,10 +43,4 @@ public class myAppTester {
 		   }
 	 
 	   */
-public static void displlay()
-{
-    System.out.Print("Display Method is there");
-    int a=20;
-
-}
 }
