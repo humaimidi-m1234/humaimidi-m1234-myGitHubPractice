@@ -53,13 +53,9 @@ public class myAppTester {
 
 
 	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
-
-            
-
-		   }
-	 
+	       Here is my testing command
+This is my second line
+	 dggghh
 	   */
 
 }
